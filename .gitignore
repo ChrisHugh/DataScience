@@ -1,7 +1,4 @@
 
-*.zip
 *.jpg
-*.hdf5
 *.txt
-Logo Generation_GPU.ipynb
-import tensorflow as tf.py
+*.zip
